@@ -1,0 +1,4 @@
+For creating a Remote Desktop Gateway infrastructure we need different configuration steps. 
+For the Deployment I prefer to use PowerShell. With this Script you will be able to Deploy all needed Roles and Services for an RDG. 
+Note: After you run this Script, you sill will have to make some configurations for your 
+environment. E.g. RD Licenses, ADFS/WAProxy settings, etc.
